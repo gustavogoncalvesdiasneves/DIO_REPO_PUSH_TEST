@@ -1,8 +1,5 @@
-# APP_Cultura_Power-Apps
-Prejeto Cultura Realizado para Micro Asisst.
+# Testando Push (Desafio REPO-DIO)
+Push Teste
 
-## Projeto_Cultura
-Aplicativo de Cultura da Empresa em Power Apps
-
-## Teste
-testando push
+## Digital Innovation One
+Testando =)
