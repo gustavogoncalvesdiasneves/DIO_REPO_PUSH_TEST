@@ -1,5 +1,6 @@
-# Testando Push (Desafio REPO-DIO)
+# Testando Push NTT DATA Diversidade em Tech
+
 Push Teste
 
-## Digital Innovation One
+## Desafio Digital Innovation One
 Testando =)
